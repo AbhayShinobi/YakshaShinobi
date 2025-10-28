@@ -51,7 +51,7 @@ Department of Computer Science
 
 ---
 
-*Thank you for reviewing my project *
+*Thank you for reviewing my project*
 
 
 
