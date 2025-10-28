@@ -1,16 +1,17 @@
-# yakshasur
+# yakshaShinobi
 
-A new Flutter project.
+This is a Flutter-based college project created for learning and practical implementation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application serves as a basic foundation for building Flutter projects.  
+Modify and expand features as needed for your requirements.
 
-A few resources to get you started if this is your first Flutter project:
+Helpful Flutter resources for beginners:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Get Started: Build your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter UI Examples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more details and developer guidance, check the  
+[Flutter official documentation](https://docs.flutter.dev/), including setup steps,
+widget references, and tutorials.
