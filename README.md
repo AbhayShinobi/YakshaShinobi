@@ -1,17 +1,59 @@
-# yakshaShinobi
+# YakshaShinobi – IHWP Project
 
-This is a Flutter-based college project created for learning and practical implementation.
+A Flutter project developed as part of the IHWP (Indian Health & Wellness Practices) college subject.  
 
-## Getting Started
+---
 
-This application serves as a basic foundation for building Flutter projects.  
-Modify and expand features as needed for your requirements.
+## Project Overview
 
-Helpful Flutter resources for beginners:
+This application serves as a basic starting point for Flutter development and includes:
+- Simple UI with informative pages
 
-- [Get Started: Build your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter UI Examples](https://docs.flutter.dev/cookbook)
+---
 
-For more details and developer guidance, check the  
-[Flutter official documentation](https://docs.flutter.dev/), including setup steps,
-widget references, and tutorials.
+##  How to Run the Project
+
+1) Clone the repository  
+git clone https://github.com/AbhayShinobi/YakshaShinobi.git
+
+2)Enter the project folder  
+cd YakshaShinobi
+
+3)Install dependencies  
+flutter pub get
+
+4)Run the app 
+flutter run
+
+---
+
+##  Submission Requirements (Included)
+
+Public GitHub Repository  
+Full project files  
+README 
+
+---
+
+##  Developer Info
+
+**Abhay Patel**  
+IHWP College Project – 2025  
+Department of Computer Science
+
+---
+
+## 📚 Helpful Flutter Resources
+
+- https://docs.flutter.dev/get-started/codelab  
+- https://docs.flutter.dev/cookbook  
+- https://docs.flutter.dev/
+
+---
+
+*Thank you for reviewing my project *
+
+
+
+
+
